@@ -6,6 +6,7 @@
 - 📖 I’m currently learning **Rust, JS and robotics**
 
 <h3 align="left">Connect with me:</h3>
+Discord - @qufity
 <p align="left">
 </p>
 
