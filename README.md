@@ -1,7 +1,7 @@
 <h1 align="center">Hi! 👋🏾 I'm Qufity</h1>
 <h3 align="center">I'm CEO of TRX, UI/UX Designer and Software Engineer. Currently a full-time student.</h3>
 
-- 📝 I’m currently working on [TRX](https://trx-roblox.com)
+- 📝 I’m currently working on **[TRX](https://trx-roblox.com)**
 
 - 📖 I’m currently learning **Rust, JS and robotics**
 
