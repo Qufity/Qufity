@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 - Discord: @qufity
-- Telegram: [qufity](https://t.me/qufity)
+- Telegram: @qufity
 <p align="left">
 </p>
 
