@@ -3,7 +3,7 @@
 
 - 📝 I’m currently working on **[TRX](https://trx-roblox.com)**
 
-- 📖 I’m currently learning **Rust, JS, TS and robotics**
+- 📖 I’m currently learning **Rust, JS, TS and Arduino**
 
 <h3 align="left">Connect with me:</h3>
 - Discord: @qufity
