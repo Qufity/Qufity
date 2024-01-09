@@ -6,8 +6,7 @@
 - 📖 Currently learning **Rust, JS, TS**
 
 <h3 align="left">Connect with me:</h3>
-- Discord: @qufity
-- Telegram: @qufity
+https://quf.life
 <p align="left">
 </p>
 <h3 align="left">Languages and Tools:</h3>
