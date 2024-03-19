@@ -1,14 +1,17 @@
-<h1 align="center">Hi! 👋🏾 I'm Qufity</h1>
-<h3 align="center">I'm CEO of TRX, UI/UX Designer and Software Engineer. Currently a full-time student.</h3>
+# 👋🏾 Hello! I'm Qufity
+I'm a Software Engineer and UI/UX Designer.
 
-- 📝 Currently working on **[TRX](https://trx-roblox.com)**
+- 📖 Learning **Rust, JS, TS** and German 
+- 💻 Currently working on some Hyper-V stuff
 
-- 📖 Currently learning **Rust, JS, TS**
 
-<h3 align="left">Connect with me:</h3>
-https://quf.life
-<p align="left">
-</p>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40" height="40" /> </p>
-<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" /> </p>
+[![Contact](https://img.shields.io/badge/-quf.life-0A0A0A?style=flat&logo=Google-Chrome&logoColor=white&link=https://quf.life)](https://quf.life)
+
+## Languages and Tools:
+![Figma](https://img.shields.io/badge/-Figma-0A0A0A?style=flat&logo=figma&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/-Illustrator-0A0A0A?style=flat&logo=adobe-illustrator&logoColor=orange)
+![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-0A0A0A?style=flat&logo=adobe-photoshop&logoColor=31A8FF)
+![Rust](https://img.shields.io/badge/-Rust-0A0A0A?style=flat&logo=rust&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-0A0A0A?style=flat&logo=node.js&logoColor=green)
+![MongoDB](https://img.shields.io/badge/-MongoDB-0A0A0A?style=flat&logo=mongodb&logoColor=green)
+![HTML5](https://img.shields.io/badge/-HTML5-0A0A0A?style=flat&logo=html5&logoColor=E34F26)
