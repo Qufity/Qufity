@@ -1,5 +1,5 @@
 # 👋🏾 Hello! I'm Qufity
-I'm a Software Engineer and UI/UX Designer.
+i do code and ui/ux design for fun
 
 - 📖 Learning **Rust, JS, TS** and German 
 - 💻 Currently working on some Hyper-V stuff
