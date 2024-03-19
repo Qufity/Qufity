@@ -5,7 +5,7 @@ I'm a Software Engineer and UI/UX Designer.
 - 💻 Currently working on some Hyper-V stuff
 
 
-[Contact me](https://quf.life)
+📩 [Contact me](https://quf.life)
 
 ## Languages and Tools:
 ![Figma](https://img.shields.io/badge/-Figma-0A0A0A?style=flat&logo=figma&logoColor=white)
