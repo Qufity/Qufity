@@ -4,8 +4,6 @@ i do code and ui/ux design for fun
 - 📖 Learning **Rust, JS, TS** and German 
 - 💻 Currently working on some Hyper-V stuff
 
-
-📩 [Contact me](https://quf.life)
 ## Languages and Tools:
 ![Rust](https://img.shields.io/badge/-Rust-0A0A0A?style=flat&logo=rust&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-0A0A0A?style=flat&logo=figma&logoColor=white)
