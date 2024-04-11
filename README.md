@@ -1,4 +1,4 @@
-# 👋🏾 Hello! I'm Qufity
+# 👋🏾 Hello!
 i do code and ui/ux design for fun
 
 - 📖 Learning **Rust, JS, TS** and German 
